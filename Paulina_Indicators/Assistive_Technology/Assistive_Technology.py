@@ -20,12 +20,7 @@ def fetch_all_indicators():
 
 
 def find_all_topic_indicators(ind_df):
-    search_words = [
-        "Hepatitis",
-        "HBV",
-        "HCV",
-        "HBsAg"
-    ]
+    search_words = ['Assistive technology', 'assistive', 'assistive products', 'ATA']
 
     pattern = "|".join(search_words)
     mask = ind_df["IndicatorName"].str.contains(pattern, case=False, na=False)
@@ -92,11 +87,11 @@ def clean_and_reshape(topic_df):
 
 
 def save_outputs(topic_long, topic_wide):
-    outdir = Path(__file__).resolve().parent / "Hepatitis" / "output"
+    outdir = Path(__file__).resolve().parent / "output"
     outdir.mkdir(parents=True, exist_ok=True)
 
-    topic_long.to_csv(outdir / "hepatitis_all_long.csv", index=False)
-    topic_wide.to_csv(outdir / "hepatitis_all_wide.csv")
+    topic_long.to_csv(outdir / "assistive_technology_all_long.csv", index=False)
+    topic_wide.to_csv(outdir / "assistive_technology_all_wide.csv")
 
 
 if __name__ == "__main__":
