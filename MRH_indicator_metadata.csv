@@ -1,0 +1,26 @@
+IndicatorCode,IndicatorName,Language
+fps,Demand for family planning satisfied - modern and traditional methods (%),EN
+fpsmo,Demand for family planning satisfied - modern methods (%),EN
+anc45,Antenatal care coverage - at least four visits (in the five years preceding the survey) (%),EN
+anc15,Antenatal care coverage - at least one visit (in the five years preceding the survey) (%),EN
+anc4,Antenatal care coverage - at least four visits (in the two or three years preceding the survey) (%),EN
+MDG_0000000006_AGE1519,"Unmet need for family planning, among girls aged 15-19 (%)",EN
+csection5,Births by caesarean section (in the five years preceding the survey) (%),EN
+csection,Births by caesarean section (in the two or three years preceding the survey) (%),EN
+MDG_0000000003,Adolescent birth rate (per 1000 women),EN
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),EN
+MDG_0000000025_AGE1519,"Births attended by skilled health personnel, among girls aged 15-19 (%)",EN
+MDG_0000000032,Maternal mortality ratio (per 100 000 live births) - Country reported estimates,EN
+MDG_0000000025,Births attended by skilled health personnel (%),EN
+WHS4_111,Antenatal care coverage - at least one visit (%),EN
+WHS4_111_AGE1519,"Antenatal care coverage - at least one visit, among girls aged 15-19 (%)",EN
+sba,Births attended by skilled health personnel (in the two or three years preceding the survey) (%),EN
+WHS4_115,Births by caesarean section (%),EN
+WHS4_154,Antenatal care coverage - at least four visits (%),EN
+sba5,Births attended by skilled health personnel (in the five years preceding the survey) (%),EN
+FAMILYPLANNINGUNPDUHC,Women who have their need for family planning satisfied with modern methods (%) - modelled estimates,EN
+SDGFPALL,Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%),EN
+NUTRITION_ANAEMIA_REPRODUCTIVEAGE_PREV,Prevalence of anaemia in women of reproductive age (aged 15-49) (%),EN
+SRHINSTITUTIONALBIRTH,Proportion of births delivered in a health facility (Facility births) (%),EN
+NUTRITION_ANAEMIA_PREGNANT_PREV,Prevalence of anaemia in pregnant women (aged 15-49) (%),EN
+ANC_ATLEAST1VISIT_PERCENT,Antenatal care coverage - at least one visit (percent),EN

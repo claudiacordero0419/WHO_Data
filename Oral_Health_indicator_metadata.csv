@@ -1,0 +1,27 @@
+IndicatorCode,IndicatorName,Language
+HRH_15,Number of dentists,EN
+HRH_10,Number of dental technicians/assistants,EN
+HWF_0010,"Dentists (per 10,000)",EN
+HWF_0011,Dentists (number),EN
+HWF_0012,Dental Assistants and Therapists (number),EN
+HWF_0013,Dental Prosthetic Technicians (number),EN
+NCD_CCS_oralhealthplan,Existence of operational policy/strategy/action plan for oral health,EN
+ORALHEALTH_HWF_DENTALPROSTHETICTECH_10K,Dental prosthetic technicians (per 10 000 population),EN
+ORALHEALTH_DENTALHEALTHCARE_EXP_PERCAP,Per capita expenditure on dental healthcare (US$),EN
+ORALHEALTH_UHC_REHABILITATION,Oral health interventions as part of health benefit packages: Rehabilitatative oral health care,EN
+ORALHEALTH_UHC_ADVANCE_CURATIVE,Oral health interventions as part of health benefit packages: Advanced curative oral health care,EN
+ORALHEALTH_UHC_PREVENTIVE,Oral health interventions as part of health benefit packages: Routine and preventive oral health care,EN
+ORALHEALTH_AVAILABILITY_URGENTCARE,Oral health: Urgent treatment for providing emergency oral care and pain relief,EN
+ORALHEALTH_AVAILABILITY_SCREENING,Oral health screening for early detection of oral diseases,EN
+ORALHEALTH_DENOMINATOR_CHEPPP,Per capita current health expenditure in PPP (oral health),EN
+ORALHEALTH_UHC_GOVSCHEME,Oral health interventions as part of health benefit packages: Coverage of the largest government health financing scheme (%),EN
+ORALHEALTH_UHC_ESSENTIAL_CURATIVE,Oral health interventions as part of health benefit packages: Essential curative oral health care,EN
+ORALHEALTH_NOMA,Oral health: Noma recognized as a national public health problem,EN
+PRISON_B9_1_DENTISTS_RATIO,Dentists in prisons (FTEs per 1000 prisoners),EN
+ORALHEALTH_DENTALHEALTHCARE_EXP_TOTAL,Total expenditure on dental healthcare in million (US$),EN
+ORALHEALTH_DENOMINATOR_TTLPOP,Total population in thousands (oral health),EN
+ORALHEALTH_SERVICESPHCFACILITIES,Oral health care services generally available in primary health care facilities,EN
+ORALHEALTH_DENTALAMALGAMPHASEDOWN,Measures to phase down the use of dental amalgam,EN
+ORALHEALTH_EMLDENTALPREP,Presence of an EML with dental preparations,EN
+ORALHEALTH_NCD_STAFF,Presence of dedicated staff for oral health working on NCDs at the MoH,EN
+ORALHEALTH_AVAILABILITY_RESTORATIVE,Oral health: Basic restorative dental procedures to treat existing dental decay,EN

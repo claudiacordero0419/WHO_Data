@@ -1,0 +1,35 @@
+IndicatorCode,IndicatorName,Language
+AIR_10,Ambient air pollution  attributable DALYs per 100'000 children under 5 years,EN
+AIR_12,Household air pollution attributable deaths in children under 5 years,EN
+AIR_16,Household air pollution attributable DALYs in children under 5 years,EN
+AIR_35,Joint effects of air pollution attributable deaths,EN
+AIR_11,Household air pollution attributable deaths,EN
+AIR_13,Household air pollution attributable deaths per 100'000 capita,EN
+AIR_14,Household air pollution  attributable deaths per 100'000 children under 5 years,EN
+AIR_17,Household air pollution attributable DALYs (per 100 000 population),EN
+AIR_39,"Household air pollution attributable DALYs (per 100 000, age-standardized)",EN
+AIR_41,Ambient air pollution attributable deaths,EN
+AIR_43,Ambient air pollution attributable DALYs,EN
+AIR_44,DALYs attributable to ambient air pollution (age-standardized),EN
+AIR_36,Joint effects of air pollution attributable deaths in children under 5 years,EN
+AIR_42,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized)",EN
+AIR_46,YLLs attributable to ambient air pollution (age-standardized),EN
+AIR_5,Ambient air pollution attributable death rate (per 100 000 population),EN
+AIR_18,Household air pollution  attributable DALYs per 100'000 children under 5 years,EN
+AIR_4,Ambient air pollution attributable deaths in children under 5 years,EN
+AIR_50,"Ambient air pollution attributable deaths (per 100 000 population, age-standardized)",EN
+AIR_51,Household air pollution attributable death rate (per 100 000 population),EN
+AIR_52,"Household air pollution attributable death rate (per 100 000 population, age-standardized)",EN
+AIR_61,Household and ambient air pollution attributable DALYs (per 100 000 capita),EN
+AIR_8,Ambient air pollution attributable DALYs  in children under 5 years,EN
+AIR_90,"Ambient air pollution attributable DALYs  (per 100 000 population, age-standardized)",EN
+AIR_6,Ambient air pollution  attributable deaths per 100'000 children under 5 years,EN
+AIR_60,Household and ambient air pollution attributable DALYs,EN
+AIR_62,"Household and ambient air pollution attributable DALYs (per 100 000 capita, age-standardized)",EN
+AIR_63,Household and ambient air pollution attributable DALYs in children under 5 years ('000),EN
+AIR_9,Ambient air pollution attributable DALYs  (per 100 000 population),EN
+AIR_15,Household air pollution attributable DALYs,EN
+AIR_45,Ambient air pollution attributable YLLs,EN
+AIR_7,Ambient air pollution attributable DALYs,EN
+SDGAIRBOD,Ambient and household air pollution attributable death rate (per 100 000 population),EN
+SDGAIRBODA,"Ambient and household air pollution attributable death rate (per 100 000 population, age-standardized)",EN

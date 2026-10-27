@@ -1,0 +1,9 @@
+IndicatorCode,IndicatorName,Language
+UHC_AVAILABILITY_SCORE,Primary data availability for UHC Service Coverage Index (SDG 3.8.1) (%),EN
+UHC_SCI_NCD,UHC Service Coverage sub-index on noncommunicable diseases,EN
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,EN
+UHC_SCI_CAPACITY,UHC Service Coverage sub-index on service capacity and access,EN
+UHC_SCI_RMNCH,"UHC Service Coverage sub-index on reproductive, maternal, newborn and child health",EN
+UHC_INDEX_REPORTED,UHC Service Coverage Index (SDG 3.8.1),EN
+FINANCIALHARDSHIP_PROPORTIONOFPOP,"Financial hardship in health and components (SDG 3.8.2, 2025 definition): population (%)",EN
+FINANCIALHARDSHIP_MILLIONOFPOP,"Financial hardship in health and components (SDG 3.8.2, 2025 definition): population (millions)",EN
