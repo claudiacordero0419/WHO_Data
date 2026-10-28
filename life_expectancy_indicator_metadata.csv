@@ -1,0 +1,23 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+CHILDMORT10TO19,Adolescent mortality rate (per 1 000 age specific cohort),EN,adolescent mortality rate,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),EN,Maternal mortality,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+MDG_0000000032,Maternal mortality ratio (per 100 000 live births) - Country reported estimates,EN,Maternal mortality,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+MH_12,Age-standardized suicide rates (per 100 000 population),EN,Suicide rates,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+MORTADO,Adolescent mortality rate (per 1 000 age specific cohort),EN,adolescent mortality rate,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+MORT_MATERNALNUM,Number of maternal deaths,EN,Maternal deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+NCD_DTH_TOT,Total NCD Deaths,EN,NCD deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+NCD_UNDER70,Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths,EN,NCD deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+RS_196,Estimated number of road traffic deaths,EN,Road traffic deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+RS_208,Attribution of road traffic deaths to alcohol (%),EN,Road traffic deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+RS_246,Distribution of road traffic deaths by type of road user (%),EN,Road traffic deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+SA_0000001835,"Alcohol-related road traffic deaths, per 100,000 population",EN,Road traffic deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+SA_0000001836,Alcohol-related road traffic deaths (% of all road traffic deaths),EN,Road traffic deaths,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+SDGSUICIDE,Crude suicide rates (per 100 000 population),EN,Suicide rates,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHOSIS_000001,Life expectancy at birth (years),EN,Life expectancy,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHOSIS_000002,Healthy life expectancy (HALE) at birth (years),EN,Life expectancy,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHOSIS_000004,Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),EN,Adult mortality,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHOSIS_000007,Healthy life expectancy (HALE) at age 60 (years),EN,Life expectancy,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHOSIS_000014,Stillbirth rate (per 1000 total births),EN,stillbirth rate,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHOSIS_000015,Life expectancy at age 60 (years),EN,Life expectancy,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHS10_4,Number of national population surveys - child mortality,EN,child mortality,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00
+WHS10_5,Number of national population surveys - maternal mortality,EN,Maternal mortality,Life Expectancy and Leading Causes of Death and Disability,2026-10-28T14:48:23+00:00

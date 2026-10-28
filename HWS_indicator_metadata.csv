@@ -1,0 +1,44 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+HRH_01,Number of nursing personnel,EN,nursing personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_03,Number of midwifery personnel,EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_04,Number of pharmacists,EN,pharmacists,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_06,Number of community health workers,EN,community health workers,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_15,Number of dentists,EN,dentists,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_24,Number of nursing and midwifery personnel,EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_33,Nursing and midwifery personnel density (per 1000 population),EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_40,Biomedical engineers density (per 10 000 population),EN,biomedical engineers,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_44,Number of biomedical engineers,EN,biomedical engineers,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_45,Biomedical technicians density (per 10 000 population),EN,biomedical technicians,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HRH_46,Number of biomedical technicians,EN,biomedical technicians,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0001,"Medical doctors (per 10,000)",EN,medical doctors,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0002,Medical doctors (number),EN,medical doctors,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0005,Medical doctors not further defined (number),EN,medical doctors,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0006,"Nursing and midwifery personnel (per 10,000)",EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0007,Nursing and midwifery personnel  (number),EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0008,Nursing personnel (number),EN,nursing personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0009,Midwifery personnel (number),EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0010,"Dentists (per 10,000)",EN,dentists,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0011,Dentists (number),EN,dentists,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0012,Dental Assistants and Therapists (number),EN,dental assistants,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0013,Dental Prosthetic Technicians (number),EN,dental prosthetic technicians,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0014,"Pharmacists  (per 10,000)",EN,pharmacists,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0015,Pharmacists  (number),EN,pharmacists,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0017,Environmental and Occupational Health and Hygiene Professionals  (number),EN,environmental and occupational health,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0018,Environmental and Occupational Health Inspectors and Associates  (number),EN,environmental and occupational health,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0023,Traditional and Complementary Medicine Professionals  (number),EN,medicine professionals,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0024,Community Health Workers (number),EN,community health workers,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0025,Medical doctors (%),EN,medical doctors,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+HWF_0026,Nursing personnel (%),EN,nursing personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+MH_21,"Total workforce in mental health sector (per 100,000)",EN,mental health sector,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+MH_22,"Occupational therapists in mental health sector (per 100,000)",EN,mental health sector,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+MH_23,"Other non-specialized doctors in mental health sector (per 100,000)",EN,mental health sector,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+MH_6,"Psychiatrists working in mental health sector (per 100,000)",EN,mental health sector,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+MH_7,"Nurses working in mental health sector (per 100,000)",EN,mental health sector,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+MH_8,"Social workers working in mental health sector (per 100,000)",EN,mental health sector,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+MH_9,"Psychologists working in mental health sector (per 100,000)",EN,mental health sector,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+ORALHEALTH_HWF_DENTALPROSTHETICTECH_10K,Dental prosthetic technicians (per 10 000 population),EN,dental prosthetic technicians,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+PRISON_B9_1_DENTISTS_RATIO,Dentists in prisons (FTEs per 1000 prisoners),EN,dentists,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+WHS6_127,Number of nursing and midwifery personnel,EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+WHS6_140,Number of community health workers,EN,community health workers,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+WHS6_148,Nursing and midwifery personnel density (per 10 000 population),EN,midwifery personnel,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00
+WHS6_150,Community health workers density (per 10 000 population),EN,community health workers,Healthcare Workforce Statistics,2026-10-28T14:46:35+00:00

@@ -1,0 +1,42 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+GDO_q10x2_1AVAIL,Availability of atleast one adult hygiene products for people with dementia,EN,hygiene,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+HWF_0017,Environmental and Occupational Health and Hygiene Professionals  (number),EN,hygiene,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+HWWS_1,Handwashing with soap after using the toilet (%),EN,handwashing; WASH,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+HWWS_2,Handwashing with soap after cleaning child's stool (%),EN,handwashing; WASH,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+NLIS_NU_CA_041,NLIS: Children with diarrhoea <5 y receiving oral rehydration therapy (ORT) and continued feeding (%),EN,diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+NLIS_NU_CA_049,NLIS: Children with diarrhoea receiving zinc and ORS (%),EN,diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+RADON_Q405,Radon in national drinking-water regulations,EN,drinking-water; water,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+SDGODAWS,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan (constant 2024 US$ millions),EN,sanitation; water,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+SDGWSHBOD,Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2),EN,WASH; unsafe WASH,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+UNICEF_ORS,Children aged <5 years with diarrhoea receiving ORS (%),EN,diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WHS2_167,Distribution of causes of death among children aged <5 years (%) - Diarrhoea,EN,diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WHS4_107,Children aged <5 years with diarrhoea receiving ORT (%),EN,diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_1,SDG 3.9.2 WASH deaths,EN,WASH,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_10,"Number of diarrhoea deaths from inadequate water, sanitation and hygiene",EN,"water, sanitation and hygiene; sanitation; hygiene; water; diarrhoea",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_10_HYG,Number of diarrhoea deaths from inadequate hygiene,EN,hygiene; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_10_SAN,Number of diarrhoea deaths from inadequate sanitation,EN,sanitation; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_10_WAT,Number of diarrhoea deaths from inadequate water,EN,water; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_2,"Water, sanitation and hygiene attributable deaths ('000) in children under 5 years",EN,"water, sanitation and hygiene; sanitation; hygiene; water",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_20,"Attributable fraction of diarrhoea to inadequate water, sanitation and hygiene",EN,"water, sanitation and hygiene; sanitation; hygiene; water; diarrhoea",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_20_HYG,Attributable fraction of diarrhoea to inadequate hygiene,EN,hygiene; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_20_SAN,Attributable fraction of diarrhoea to inadequate sanitation,EN,sanitation; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_20_WAT,Attributable fraction of diarrhoea to inadequate water,EN,water; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_3,"Water, sanitation and hygiene attributable deaths per 100'000 capita",EN,"water, sanitation and hygiene; sanitation; hygiene; water",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_30,"Number of diarrhoea DALYs from inadequate water, sanitation and hygiene",EN,"water, sanitation and hygiene; sanitation; hygiene; water; diarrhoea",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_30_HYG,Number of diarrhoea DALYs from inadequate hygiene,EN,hygiene; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_30_SAN,Number of diarrhoea DALYs from inadequate sanitation,EN,sanitation; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_30_WAT,Number of diarrhoea DALYs from inadequate water,EN,water; diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_4,"Water, sanitation and hygiene  attributable deaths per 100'000 children under 5 years",EN,"water, sanitation and hygiene; sanitation; hygiene; water",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_5,"Water, sanitation and hygiene attributable DALYs ('000)",EN,"water, sanitation and hygiene; sanitation; hygiene; water",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_6,"Water, sanitation and hygiene attributable DALYs ('000) in children under 5 years",EN,"water, sanitation and hygiene; sanitation; hygiene; water",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_7,"Water, sanitation and hygiene attributable DALYs per 100'000 capita",EN,"water, sanitation and hygiene; sanitation; hygiene; water",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_8,"Water, sanitation and hygiene  attributable DALYs per 100'000 children under 5 years",EN,"water, sanitation and hygiene; sanitation; hygiene; water",Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_DOMESTIC_WASTE_SAFELY_TREATED,SDG 6.3.1 Proportion of safely treated domestic wastewater flows (%),EN,wastewater; water,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_HYGIENE_BASIC,Population with basic handwashing facilities at home (%),EN,handwashing; WASH,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_SANITATION_BASIC,Population using at least basic sanitation services (%),EN,sanitation; basic sanitation; sanitation services,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_SANITATION_OD,Population practising open defecation (%),EN,open defecation,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_SANITATION_SAFELY_MANAGED,Population using safely managed sanitation services (%),EN,sanitation; safely managed sanitation; sanitation services,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_WATER_BASIC,Population using at least basic drinking-water services (%),EN,drinking-water; water services; water,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+WSH_WATER_SAFELY_MANAGED,Population using safely managed drinking-water services (%),EN,drinking-water; water services; water,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+ors,Children aged < 5 years with diarrhoea receiving oral rehydration salts (%),EN,diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00
+ort,Children aged < 5 years with diarrhoea receiving oral rehydration therapy and continued feeding (%),EN,diarrhoea,Water Sanitation and Hygiene,2026-10-28T17:10:13+00:00

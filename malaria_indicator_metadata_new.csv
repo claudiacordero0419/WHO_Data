@@ -1,0 +1,39 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+MALARIA001,Malaria - number of reported deaths,EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA002,Estimated number of malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA003,Estimated number of malaria deaths,EN,malaria; malaria deaths,Malaria,2026-10-28T14:52:15+00:00
+MALARIA004,Number of under-five deaths from malaria,EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA005,Malaria incidence per 100 000 population,EN,malaria; malaria incidence,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_1STLINE_TREATED,Number of malaria cases treated with any first  line tx courses (including artemisinin-based combination therapies (ACTs)),EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_ACT_TREATED,Number of malaria cases treated with artemisinin-based combination therapies (ACTs),EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_CONF_CASES,Number of confirmed malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_EST_CASES,Estimated number of malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,EN,malaria; malaria deaths,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),EN,malaria; malaria incidence,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),EN,malaria; malaria mortality,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_IMPORTED,Number of imported malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_INDIG,Number of indigenous malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_INDIG_STATUS,Status of indigenous malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_IPTP3_COVERAGE,Pregnant women attending antenatal care  at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%),EN,malaria; intermittent preventive treatment,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_IRS_COVERAGE,Number of people protected from malaria by indoor residual spraying (IRS),EN,malaria; indoor residual spraying,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_ITN_USE,Malaria ITN use: Population in malaria-endemic areas who slept under an insecticide-treated bed net (ITN) the previous night (%),EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_NMCP_CALCULATIONS,Domestic Expenditure on Malaria,EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_PRES_CASES,Number of presumed malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_RDT_POS,Number of malaria positive cases by rapid diagnostic test (RDT),EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_SUSPECTS,Number of suspected malaria cases,EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),EN,malaria; malaria cases,Malaria,2026-10-28T14:52:15+00:00
+MDG_0000000013,Children aged <5 years sleeping under insecticide-treated nets (%),EN,insecticide-treated nets,Malaria,2026-10-28T14:52:15+00:00
+MDG_0000000014,Children aged <5 years with fever who received treatment with any antimalarial (%),EN,malaria; antimalarial,Malaria,2026-10-28T14:52:15+00:00
+MDG_0000000016,Deaths due to malaria (per 100 000 population),EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+SDGMALARIA,Malaria incidence (per 1 000 population at risk),EN,malaria; malaria incidence,Malaria,2026-10-28T14:52:15+00:00
+WHS2_152,Deaths due to malaria (per 100 000 population),EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+WHS2_164,Distribution of causes of death among children aged <5 years (%) - Malaria,EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+WHS3_48,Malaria - number of reported confirmed cases,EN,malaria,Malaria,2026-10-28T14:52:15+00:00
+itnch,Children aged < 5 years sleeping under insecticide-treated nets (%),EN,insecticide-treated nets,Malaria,2026-10-28T14:52:15+00:00
+itnwm,Pregnant women sleeping under insecticide-treated nets (%),EN,insecticide-treated nets,Malaria,2026-10-28T14:52:15+00:00

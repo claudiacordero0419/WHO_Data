@@ -1,0 +1,63 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+HEPATITIS_DEATHS_NUM,Hepatitis - Deaths caused by chronic hepatitis B and C,EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_DEATHS_RATE,Hepatitis - Deaths caused by chronic hepatitis B and C (per 100 000 population),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_DEATHS_NUM,Deaths caused by chronic hepatitis B (HBV) infection (number),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_DIAGNOSED_NUM,Chronic hepatitis B (HBV) infected persons diagnosed (number),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_DIAGNOSIS_PERINFECTED_PER100,Chronic hepatitis B (HBV) diagnosis coverage as a percentage of infected (%),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_INFECTIONS_NEW_NUM,New chronic hepatitis B (HBV) infections (number),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_LIVINGWITH_NUM,People living with chronic hepatitis B (HBV) (number),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_PREVALENCE_PER100,Prevalence of chronic hepatitis B (HBV) in the general population (%),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_TREATMENT_NUM,Persons on chronic hepatitis B (HBV) treatment (number),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_TREATMENT_PERDIAGNOSED_PER100,Chronic hepatitis B (HBV) treatment rate as percentage of diagnosed (%),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPATITIS_HBV_TREATMENT_PERINFECTED_PER100,Chronic hepatitis B (HBV) treatment rate as percentage of total infected (%),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+HEPB_HBSAG_CARRIER,Hepatitis B surface antigen (HBsAG) carriers (per 100 000 population),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+IMMUNIZATION_VACCINATIONCARDSSEEN,Proportion of vaccination cards seen (%),EN,vaccination,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the locally recommended age (%) (WUENIC),EN,vaccine; immunization; immunization coverage; measles,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+NCD_CCS_ACE,General availability of ACE inhibitors in the public health sector,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+NCD_CCS_hpv,Existence of national HPV vaccination programme,EN,vaccination; HPV,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PCV3,Pneumococcal conjugate second or third-dose vaccines (PCVc) immunization coverage by the locally recommended age (%) (WUENIC),EN,vaccine; immunization; immunization coverage,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PRISON_B11_VACPREV_DTP,In-prison vaccination for DTP,EN,vaccination,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PRISON_B11_VACPREV_FLU,In-prison vaccination for seasonal flu,EN,vaccination,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PRISON_B11_VACPREV_HEPA,In-prison vaccination for Hepatitis A,EN,vaccination,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PRISON_B11_VACPREV_HEPB,In-prison vaccination for Hepatitis B,EN,vaccination; hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PRISON_B11_VACPREV_HPV,In-prison vaccination for HPV,EN,vaccination; HPV,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PRISON_B11_VACPREV_MMR,In-prison vaccination for MMR,EN,vaccination,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+PRISON_D4_HEPB_DIAG_TOT,In-prison Hepatitis B diagnosis (number of diagnoses),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),EN,vaccine; immunization; immunization coverage; rotavirus vaccine; rotavirus,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+SDGHEPHBSAGPRV,Hepatitis B surface antigen (HBsAg) prevalence (%),EN,hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+SDGHPVRECEIVED,HPV immunization coverage estimates among primary target cohort (9-14 years old girls) (%),EN,immunization; immunization coverage; HPV,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+VACCINECOVERAGE_DTP1,Diphtheria tetanus toxoid and pertussis first-dose (DTP1) immunization coverage among 1-year-olds (%) (WUENIC),EN,immunization; immunization coverage; DTP1; diphtheria; tetanus; pertussis,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+VACCINECOVERAGE_IPV1,Inactivated first-dose polio vaccine (IPV1) immunization coverage among 1-year-olds (%) (WUENIC),EN,vaccine; immunization; immunization coverage; polio,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+VACCINECOVERAGE_MENA_C,Meningococcal A conjugate (MENGA) vaccine immunization coverage (%) (WUENIC),EN,vaccine; immunization; immunization coverage,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+VACCINECOVERAGE_YFV,Yellow fever vaccine (YFV) immunization coverage among 1-year olds (%),EN,vaccine; immunization; immunization coverage; yellow fever vaccine; yellow fever,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+VACCINEPREVENTABLE_WILDPOLIO,Number of reported cases of poliomyelitis by wild poliovirus (WPV),EN,polio; poliomyelitis,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+W19_colours_numbers_A,Cigarette packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+W19_colours_numbers_B,Other smoked tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+W19_colours_numbers_C,Smokeless tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+W26_plainSPACEpackaging_A,Plain packaging of cigarettes is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+W26_plain_packaging_A,Plain packaging of cigarettes is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+W26_plain_packaging_B,Plain packaging of other smoked tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+W26_plain_packaging_C,Plain packaging of smokeless tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).,EN,Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS2_168,Distribution of causes of death among children aged <5 years (%) - Measles,EN,measles,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_41,Diphtheria - number of reported cases,EN,diphtheria,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_43,Pertussis - number of reported cases,EN,pertussis,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_46,Total tetanus - number of reported cases,EN,tetanus,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_49,Poliomyelitis - number of reported cases,EN,polio; poliomyelitis,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_50,Yellow fever - number of reported cases,EN,yellow fever,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_53,Mumps - number of reported cases,EN,mumps,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_55,Congenital Rubella Syndrome - number of reported cases,EN,rubella,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_56,Neonatal tetanus - number of reported cases,EN,tetanus,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_57,Rubella - number of reported cases,EN,rubella,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS3_62,Measles - number of reported cases,EN,measles,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS4_100,Diphtheria tetanus toxoid and pertussis third-dose  (DTP3) immunization coverage among 1-year-olds (%) (WUENIC),EN,immunization; immunization coverage; DTP3; diphtheria; tetanus; pertussis,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%) (WUENIC),EN,immunization; immunization coverage; hepatitis B,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS4_128,Neonates protected at birth against neonatal tetanus (PAB) (%),EN,tetanus,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%) (WUENIC),EN,immunization; immunization coverage; Hib,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS4_543,BCG immunization coverage among 1-year-olds (%) (WUENIC),EN,immunization; immunization coverage; BCG,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS4_544,Polio vaccine: inactivated second or third-dose polio vaccine (IPVc) immunization coverage by the locally recommended age (%) (WUENIC),EN,vaccine; immunization; immunization coverage; polio,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%) (WUENIC),EN,vaccine; immunization; immunization coverage; measles,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+bcgv,BCG immunization coverage among one-year-olds (%),EN,immunization; immunization coverage; BCG,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+dptv,DTP3 immunization coverage among one-year-olds (%),EN,immunization; immunization coverage; DTP3,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+fullv,Full immunization coverage among one-year-olds (%),EN,immunization; immunization coverage,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+mslv,Measles immunization coverage among one-year-olds (%),EN,immunization; immunization coverage; measles,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00
+poliov,Polio immunization coverage among one-year-olds (%),EN,immunization; immunization coverage; polio,Vaccine Preventable Diseases,2026-10-28T17:04:38+00:00

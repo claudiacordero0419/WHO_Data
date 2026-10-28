@@ -1,0 +1,41 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+NTD_1,Number of new reported cases of Buruli ulcer,EN,buruli; Buruli ulcer,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_2,Dracunculiasis certification status of countries at the beginning of the year,EN,dracunculiasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_3,Annual incidence of dracunculiasis cases,EN,dracunculiasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_4,Number of new reported cases of human African trypanosomiasis (T.b. gambiense),EN,human African trypanosomiasis; trypanosomiasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_5,Number of new reported cases of human African trypanosomiasis (T.b. rhodesiense),EN,human African trypanosomiasis; trypanosomiasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_6,Status of elimination of trachoma as a public health problem,EN,trachoma,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_7,"Population in areas that warrant treatment with antibiotics, facial cleanliness and environmental improvement for elimination of trachoma as a public health problem",EN,trachoma,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_8,Number of people who received treatment with antibiotics for trachoma,EN,trachoma,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_BU_CONF,Number of confirmed cases of Buruli ulcer reported,EN,buruli; Buruli ulcer,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_BU_END,Status of endemicity of Buruli ulcer,EN,buruli; Buruli ulcer,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_BU_SUSP,Number of suspected cases of Buruli ulcer reported,EN,buruli; Buruli ulcer,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_DRACASES,Dracunculiasis cases,EN,dracunculiasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEISHCEND,Status of endemicity of cutaneous leishmaniasis,EN,leishmaniasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,EN,leishmaniasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEISHCNUM_IM,Number of imported cases of cutaneous leishmaniasis reported,EN,leishmaniasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEISHVEND,Status of endemicity of visceral leishmaniasis,EN,leishmaniasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,EN,leishmaniasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEISHVNUM_IM,Number of imported cases of visceral leishmaniasis reported,EN,leishmaniasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR11,Number of female leprosy new cases,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR13,New leprosy child case detection rate (less than 15 years of age) per 1 000 000 child population,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR14,Number of non-autochthonous leprosy cases,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR2,New leprosy case detection rate per 1 000 000 population,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR3,Leprosy - Number of cases registered for treatment,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR4,Leprosy registered prevalence rate per 1 000 000 population,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR5,Number of new G2D leprosy cases,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR7,Leprosy - New leprosy cases with G2D rate per 1 000 000 population,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR8,Leprosy - Number of new leprosy cases among children (less than 15 years of age),EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_LEPR9,Number of new leprosy cases with G2D among children (less than 15 years of age),EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_ONCHEMO,Number of individuals in the country requiring preventive chemotherapy for onchocerciasis,EN,onchocerciasis; preventive chemotherapy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_ONCHSTATUS,Status of endemicity of onchocerciasis,EN,onchocerciasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,EN,onchocerciasis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_RAB2,Reported number of human rabies deaths,EN,rabies,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_TRA5,Number of people operated for trachomatous trichiasis,EN,trachoma,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_TSOL2,Presence of porcine cysticercosis,EN,cysticercosis,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_YAWSEND,Status of yaws endemicity,EN,yaws,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_YAWSNUM,Number of cases of yaws reported,EN,yaws,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_YAWSNUM_CONF,Number of confirmed yaws cases reported,EN,yaws,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,EN,yaws,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+SDGNTDTREATMENT,Reported number of people requiring interventions against NTDs,EN,NTD; NTDs,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00
+WHS3_45,Number of new leprosy cases,EN,leprosy,Neglected Tropical Diseases,2026-10-28T16:54:29+00:00

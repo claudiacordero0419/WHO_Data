@@ -1,0 +1,71 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+MDG_0000000017,Deaths due to tuberculosis among HIV-negative people (per 100 000 population),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+MDG_0000000018,Deaths due to tuberculosis among HIV-positive people (per 100 000 population),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+MDG_0000000020,Incidence of tuberculosis (per 100 000 population per year),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+MDG_0000000022,Tuberculosis detection rate under DOTS (%),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+MDG_0000000023,Prevalence of tuberculosis (per 100 000 population),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+MDG_0000000024,Tuberculosis treatment success under DOTS (%),EN,tuberculosis; tuberculosis treatment; tuberculosis treatment success,Tuberculosis,2026-10-28T17:00:14+00:00
+MDG_0000000030,Smear-positive tuberculosis case-detection rate (%),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+MDG_0000000031,Smear-positive tuberculosis treatment-success rate (%),EN,tuberculosis; tuberculosis treatment,Tuberculosis,2026-10-28T17:00:14+00:00
+PRISON_D4_MDRTB_DIAG_TOT,In-prison MDR-TB diagnosis (number of diagnoses),EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+PRISON_D4_TB_DIAG_TOT,In-prison TB diagnosis (number of diagnoses),EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+RSUD_42,Specialized treatment services for substance use disorders and TB,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_1,Tuberculosis treatment coverage,EN,tuberculosis; tuberculosis treatment; tuberculosis treatment coverage,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_Notification_agesex_num,The number of new and relapse cases of tuberculosis detected in a given year by age and sex,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_dst_rlt_new_pct,New cases tested for RR-/MDR-TB (%),EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_dst_rlt_ret_pct,Previously treated cases tested for RR-/MDR-TB (%),EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_lab_cul_5m,Laboratories providing tuberculosis diagnostic services using culture (per 5 million population),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_lab_sm_100k,Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_mdr_tsr,Treatment success rate for patients treated for MDR-TB (%),EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_mdr_tx,Cases started on MDR-TB treatment,EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_new_snep_tsr,Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_new_tsr,Treatment success rate: new TB cases,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_newinc,Tuberculosis - new and relapse cases,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_notified,Total number of notified TB cases,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_ret_tsr,Treatment success rate: previously treated TB cases,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_tbhiv_tsr,Treatment success rate: HIV-positive TB cases,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_c_xdr_tsr,Treatment success rate: XDR-TB cases,EN,TB; XDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct_DRTB,Percentage of TB-affected households facing costs >20% of household income or expenditure due to DR-TB.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct_DSTB,Percentage of TB-affected households facing costs >20% of household income or expenditure due to DS-TB.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct_Q1,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q1 (lowest) income or expenditure quantile.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct_Q2,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q2 income or expenditure quantile.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct_Q3,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q3 income or expenditure quantile.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct_Q4,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q4 income or expenditure quantile.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_cc_prct_Q5,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q5 (highest) income or expenditure quantile.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_conf_mdr_tx_pct,Confirmed cases of MDR-TB started treatment for MDR-TB (%),EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_drs_rr_prct,Prevalence of rifampicin resistance among pulmonary TB cases.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_inc_num,Number of incident tuberculosis cases,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_inc_num_014,Number of incident tuberculosis cases in children aged 0 - 14,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_inc_rr_num,Estimated number of MDR/RR-TB incident cases,EN,TB; RR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_inc_tbhiv_100k,Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_inc_tbhiv_num,"Number of incident tuberculosis cases,  (HIV-positive cases)",EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_mdr_num,Estimated MDR-TB cases among notified pulmonary TB cases,EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_mort_exc_tbhiv_num,"Number of deaths due to tuberculosis, excluding HIV",EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_e_prev_num,Number of prevalent tuberculosis cases,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_effective_treatment_coverage,Tuberculosis effective treatment coverage (%),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_hiv_art_pct,HIV-positive TB patients on ART (antiretroviral therapy) (%),EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_hiv_cpt_pct,HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_hivtest_pct,TB patients with known HIV status (%),EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_hivtest_pos_pct,Tested TB patients HIV-positive (%),EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_mdr,Confirmed cases of MDR-TB,EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_new_snuoth,TB new snuoth,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_notif_num,Number of people notified with new episode of TB in a given year,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_notif_num_agesex,Number of people diagnosed with new episode TB who by age group and sex.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_notif_num_labconf,Number of people diagnosed with new episode of pulmonary TB who are bacteriologically confirmed.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_notif_num_newrel_clindx,Number of people diagnosed with new episode of pulmonary TB who are clinically diagnosed.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_notif_num_newrel_ep,Number of people diagnosed with new episode of pulmonary TB who have extrapulmonary TB.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_ps_prev_bc_100k,"Prevalence of bacteriologically-confirmed pulmonary TB among those aged ≥15 years, per 100,000 population",EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_ps_prev_bc_100k_byagegroup,"Prevalence of bacteriologically-confirmed pulmonary TB among those aged ≥15 years, per 100,000 population by age group",EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_ps_prev_bc_100k_byagegroup_sp,"Prevalence of bacteriologically-confirmed pulmonary TB who are smear positive among those aged ≥15 years, per 100,000 population by age group",EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_ps_prev_bc_100k_bysex,"Prevalence of bacteriologically-confirmed pulmonary TB among those aged ≥15 years, per 100,000 population by sex.",EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_ps_prev_bc_100k_bysex_sp,"Prevalence of bacteriologically-confirmed pulmonary TB who are smear positive among those aged ≥15 years, per 100,000 population by sex.",EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_ps_prev_bc_100k_sp,"Prevalence of bacteriologically-confirmed pulmonary TB who are smear positive among those aged ≥15 years, per 100,000 population",EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_rdst_num,The number of people with susceptibility test result for rifampicin among bacteriologically confirmed pulmonary TB patients.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_rdst_num_prct,The number of people with susceptibility test result for rifampicin among bacteriologically confirmed pulmonary TB patients expressed as percentage.,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_rr_mdr,Confirmed cases of RR-/MDR-TB,EN,TB; MDR-TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_sb,Standards and benchmarks for TB and vital registration system surveillance,EN,TB,Tuberculosis,2026-10-28T17:00:14+00:00
+TB_tot_newrel,Tuberculosis - new and relapse cases,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+UHC_TB_DT,Tuberculosis detection and treatment,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+WHS3_522,Number of reported cases of tuberculosis,EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00
+WHS3_54,Number of reported cases of tuberculosis (DOTS),EN,tuberculosis,Tuberculosis,2026-10-28T17:00:14+00:00

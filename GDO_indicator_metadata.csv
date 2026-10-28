@@ -1,0 +1,250 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+GDO_Q2x2x1_AGE,Identification of other plans in which dementia is integrated (Ageing),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_Q2x2x1_DISAB,Identification of other plans in which dementia is integrated (Disability),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_Q2x2x1_MENTAL,Identification of other plans in which dementia is integrated (Mental health),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_Q2x2x1_NCD,Identification of other plans in which dementia is integrated (NCD),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q10x1,National regulator approval of anti-dementia medication,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q10x1x1,Availability of generic anti-dementia medication,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q10x1x2,Availability of at least one anti-dementia medication approved for on-label use reimbursement,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q10x2_1AVAIL,Availability of atleast one adult hygiene products for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q10x2_HOSUE,Availability of atleast one housing adjustment for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q10x2_TECH,Availability of  atleast one assistive technology for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x1,Existence of dementia national nongovernmental organization,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x2x1,Dementia nongovernmental organization equipped with office,EN,dementia; Dementia nongovernmental organization,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x2x2_1,Dementia nongovernmental organization office branches (Sub-national),EN,dementia; Dementia nongovernmental organization,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x2x2_2,Dementia nongovernmental organization office branches (Local),EN,dementia; Dementia nongovernmental organization,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x2x2_3,Dementia nongovernmental organization office branches (National only),EN,dementia; Dementia nongovernmental organization,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x2x3,Dementia nongovernmental organization staff primarily salaried/volunteer,EN,dementia; Dementia nongovernmental organization,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x2x5,Provision of governmental funding to dementia nongovernmental organization for activities/services,EN,dementia; Dementia nongovernmental organization,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q11x2x6,Dementia nongovernmental organization's involvement in policy development,EN,dementia; Dementia nongovernmental organization,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x1,Existence of dementia carer support services,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x1x1,Implementation level [national/subnational] of dementia carer support services,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x1x2,Existence of dedicated resources for dementia carer support services,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x1x3,Existence of implementation plan for dementia carer support services,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2_2,Existence of psycho-social supports for dementia carers,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2_3,Existence of respite care for dementia carers,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2_4,Existence of information on legal rights for dementia carers,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2_5,Existence of financial benefits/social protection for dementia carers,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_1,"Accessibility of dementia carer training and education [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_1NGO,Majority provider of dementia carer training and education (NGO),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_1PRV,Majority provider of dementia carer training and education (Private sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_1PUB,Majority provider of dementia carer training and education (Public sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_2,"Accessibility of psycho-social supports for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_2NGO,Majority provider of psycho-social supports for dementia carers (NGO),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_2PRV,Majority provider of psycho-social supports for dementia carers (Private sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_2PUB,Majority provider of psycho-social supports for dementia carers (Public sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_3,"Accessibility of respite care for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_3NGO,Majority provider of respite care for dementia carers (NGO),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_3PRV,Majority provider of respite care for dementia carers (Private sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_3PUB,Majority provider of respite care for dementia carers (Public sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_4,"Accessibility of information on legal rights for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_4NGO,Majority provider of information on legal rights for dementia carers (NGO),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_4PRV,Majority provider of information on legal rights for dementia carers (Private sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_4PUB,Majority provider of information  on legal rights for dementia carers (Public sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_5,"Accessibility of financial benefits/social protection for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_5NGO,Majority provider of information on financial benefits/social protection for dementia carers (NGO),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_5PRV,Majority provider of information on financial benefits/social protection for dementia carers (Private sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x1_5PUB,Majority provider of information  on financial benefits/social protection for dementia carers (Public sector),EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x1x3,Estimated number of dementia carers receiving training and education,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x2x3,Estimated number of dementia carers receiving psycho-social supports,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x3x3,Estimated number of dementia carers receiving respite care,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x4x3,Estimated number of dementia carers receiving information on legal rights,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q12x2x5x3,Estimated number of dementia carers receiving financial benefits/social protection,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q13x1,Existence of at least one functioning dementia awareness campaign,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q13x1x1,Implementation level [national/subnational] of dementia awareness campaign,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q13x3x1,Implementation level [national/subnational] of dementia risk reduction campaign,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q14x1,Availability of dementia-friendly initiatives that improve accessibility,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q14x2_1,Existence of dementia-friendly initiative to improve accessibility of public spaces,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q14x2_2,Existence of dementia-friendly initiative to improve accessibility of public transportation,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q14x2_3,Existence of dementia-friendly initiative for assistance with home modification,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q14x2_4,Existence of dementia-friendly initiative with assistive technology for loss of capacity,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q14x2_5,Existence of dementia-friendly initiative supporting community places for older people,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q14x2_6,Existence of dementia-friendly initiative supporting social opportunities,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x1,Inclusion of dementia training and education for non-health workers,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_1,Existence of dementia training for volunteers,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_2,Existence of dementia training for police and fire services,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_3,Existence of dementia training for first responders,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_4,Existence of dementia training for legal professionals,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_5,Existence of dementia training for community workers,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_6,Existence of dementia training for school children,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_7,Existence of dementia training for financial service staff,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q15x2_8,Existence of dementia training for retail and hospitality staff,EN,dementia; Dementia training,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1,Routine monitoring of people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1x1_1,Data sources used to routinely monitor people with dementia (Clinical records),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1x1_2,Data sources used to routinely monitor people with dementia (Household surveys),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1x1_3,Data sources used to routinely monitor people with dementia (Administrative data),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1x1_4,Data sources used to routinely monitor people with dementia (Facility survey or records),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1x1_other,Data sources used to routinely monitor people with dementia (Other),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1x2_1,Electronic availability of data sources used to routinely monitor people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x1x2_2,Data used to routinely monitor people with dementia can be disaggregated,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x2_1,Availability of routine hospital admissions records for people with dementia for monitoring purposes,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x2_2,Availability of routine outpatient visit records for people with dementia for monitoring purposes,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x2_3,Availability of routine outpatient intervention and treatment records for people with dementia for monitoring purposes,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x2_4,Availability of routine pharmaceutical records for people with dementia for monitoring purposes,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x2_5,Availability of routine antipsychotic prescription records for people with dementia for monitoring purposes,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q16x3,Availability and status of dementia reporting in the past two years,EN,dementia; Dementia reporting,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x1,Existence of a current dementia research plan/programme,EN,dementia; Dementia research,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x1x1,Implementation level [national/subnational] of dementia research plan/programme,EN,dementia; Dementia research,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x2,Dementia integrated into other national research plan/programme,EN,dementia; Dementia integrated,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x2x1_1,Identification of other research plans in which dementia is integrated (Mental health),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x2x1_2,Identification of other research plans in which dementia is integrated (Ageing),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x2x1_3,Identification of other research plans in which dementia is integrated (Neuro or neurodegenerative disease),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x2x1_4,Identification of other research plans in which dementia is integrated (NCD),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q17x2x2,Implementation level [national/subnational] of research plan in which dementia is integrated,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q18x2,Availability of funding for dementia-specific research plan/programme,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q18x2x1_1,"Total expenditure on dementia research (local currency, self-report)",EN,dementia; Dementia research,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q18x2x3_1,"Total expenditure on dementia basic research (local currency, self-report)",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q18x2x3_2,"Total expenditure on dementia clinical/translational research (local currency, self-report)",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q18x2x3_3,"Total expenditure on dementia implementation research (local currency, self-report)",EN,dementia; Dementia implementation,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q19x2,Number of people with dementia involved in research routinely monitored,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q19x3,Availability of investigational pharmaceutical trials for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q19x3x1_1,Number of investigational pharmaceutical trials for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q1x1,Inclusion of dementia in ministry portfolio,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q1x1x1,"Inclusion of dementia in a branch of government [health, ageing, social services, mental health, noncommunicable disease]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q1x2,Existence of dementia representative in ministry,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q20,Total number of published dementia research output,EN,dementia; Dementia research,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x1,Existence of dementia national plan,EN,dementia; Dementia national plan,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x1x2,Availability of funding for dementia national plan,EN,dementia; Dementia national plan,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x1x3,Targets for monitoring implementation of dementia national plan,EN,dementia; Dementia national plan,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x2,Dementia integrated into other national plan,EN,dementia; Dementia integrated,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x2x1_other,Identification of other plans in which dementia is integrated (Other),EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x3,Existence of dementia sub-national plan(s),EN,dementia; Dementia sub-national plan,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x3x1_1,Percentage of sub-national regions covered by dementia plan,EN,dementia; Percentage of sub-national regions covered by dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x4_1,Inclusion of human rights as a guiding principle of the dementia plan,EN,dementia; Inclusion of human rights as a guiding principle of the dementia plan,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x4_2,Inclusion of equity as a guiding principle of the dementia plan,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x4_3,Inclusion of empowerment as a guiding principle of the dementia plan,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x4_4,Inclusion of multisectoral collaboration as a guiding principles of the dementia plan,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x4_5,Inclusion of universal health coverage as a guiding principle of the dementia plan,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x5_1,Inclusion of dementia-friendly communities as a specific action of the dementia plan,EN,dementia; Dementia-friendly,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x5_2,Inclusion of dementia risk reduction as a specific action of the dementia plan,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x5_3,"Inclusion of dementia diagnosis, care and support as a specific action of the dementia plan",EN,dementia; Dementia diagnosis,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x5_4,Inclusion of dementia workforce training as a specific action of the dementia plan,EN,dementia; Dementia workforce,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x5_5,Inclusion of support for dementia carers and families as a specific action of the dementia plan,EN,dementia; Dementia care; Dementia carer,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x5_6,Inclusion of improved information system as a specific action of the dementia plan,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q2x5_7,Inclusion of research and innovation as a specific action of the dementia plan,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x1,Existence of dementia legislation,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x1x1_1,Implementation level [national/subnational] of dementia legislation,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x2,Existence of other laws that apply to the rights of people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x3a_1,Existence of legislation for supported decision making for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x3a_2,Existence of legislation to file appeals protecting the rights of people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x3a_3,Existence of legislation to promote community-based services for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x3a_4,Existence of legislation to promote monitoring of human rights conditions of people with dementia in facilities where they reside,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x3b_1,Existence of legislation to end coercieve practices for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x4_1,Existence of legislation for advanced care directives for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x4_2,Existence of legislation to end discrimination against people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q3x4_3,Existence of legislation to end discrimination against carers of people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x1,Existence of dementia standards/ guidelines/ protocols,EN,dementia; Dementia standards,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x1x1_SQ001,Implementation level of dementia standards/ guidelines/ protocols (National),EN,dementia; Dementia standards,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x1x1_SQ002,Implementation level of dementia standards/ guidelines/ protocols (Sub-national),EN,dementia; Dementia standards,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x1x2,Existence of approved government dementia standards/ guidelines/ protocols,EN,dementia; Dementia standards,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x2_1,Existence of standards/ guidelines/ protocols for prevention and risk reduction of dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x2_2,Existence of standards/ guidelines/ protocols for diagnosis of dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x2_3,Existence of standards/ guidelines/ protocols for management of dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x2_4,Existence of standards/ guidelines/ protocols for other post-diagnostic supports of people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x2_5,Existence of standards/ guidelines/ protocols for treatment and support of carers and families of people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x3x4_1,"Existence of standards/ guidelines/ protocols for advance care directives, power of attorney or guardianship for people with dementia",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x3x4_2,Existence of standards/ guidelines/ protocols for palliative and end-of-life care for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x3x4_3,Existence of standards/ guidelines/ protocols of care in nursing & residential care facilities for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q4x3x4_4,Existence of standards/ guidelines/ protocols of care in hospital for people with dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1,Availability of mechanisms to coordinate dementia care across sectors,EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_1,Identification of different sectors in dementia care coordination  (Health),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_2,Identification of different sectors in dementia care coordination (Social),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_3,Identification of different sectors in dementia care coordination (Education),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_4,Identification of different sectors in dementia care coordination (Employment),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_5,Identification of different sectors in dementia care coordination (Justice),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_6,Identification of different sectors in dementia care coordination (Housing),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_7,Identification of different sectors in dementia care coordination (Civil society),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_8,Identification of different sectors in dementia care coordination (Private sector),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x1_other,Identification of different sectors in dementia care coordination (Other),EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x2,Implementation level [national/subnational] of dementia care coordination,EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x1x3,Presence of formal agreement/joint plan for dementia care coordination,EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q5x2,Availability of dementia care coordination standards/ guidelines/ protocols,EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q6x2_1,Inclusion of basic dementia competencies in training of physicians,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q6x2_2,Inclusion of basic dementia competencies in training of specialists,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q6x2_3,Inclusion of basic dementia competencies in training of nurses,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q6x2_4,Inclusion of basic dementia competencies in training of pharmaceutical personnel,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q6x2_5,Inclusion of basic dementia competencies in training of social workers,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q6x2_6,Inclusion of basic dementia competencies in training of personal support workers,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q7x1_AVAIL,Availability of dementia diagnostic rate,EN,dementia; Dementia diagnostic,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x1,Existence of community-based health or social care services for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x2_1,Availability of diagnostic services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x2_2,Availability of behaviour and psychological management in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x2_3,Availability of psychosocial and rehabilitation services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x2_4,Availability of activities of daily living support services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x2_5,Availability of palliative and end-of-life care services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x2_6,Availability of social and financial protection for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x3_1,"Accessibility of diagnostic services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x3_2,"Accessibility of behaviour and psychological management in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x3_3,"Accessibility of psychosocial and rehabilitation services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x3_4,"Accessibility of activities of daily living support services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x3_5,"Accessibility of palliative and end-of-life care services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x3_6,"Accessibility of social and financial protection for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x4_1,"Majority provider of diagnostic services in community for dementia [public, private]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x4_2,"Majority provider of behaviour and psychological management in community for dementia [public, private]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x4_3,"Majority provider of psychosocial and rehabilitation services in community for dementia [public, private]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x4_4,"Majority provider of activities of daily living support services in community for dementia [public, private]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x4_5,"Majority provider of palliative and end-of-life care services in community for dementia [public, private]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x4_6,"Majority provider of social and financial protection for dementia [public, private]",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x5_2,Estimated number of people receiving behaviour and psychological management services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x5_3,Estimated number of people receiving psychosocial and rehabilitation services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x5_4,Estimated number of people receiving activities of daily living support services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x5_5,Estimated number of people receiving palliative and end-of-life care services in community for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q8x5_6,Estimated number of people with dementia receiving social and financial protection for dementia,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9_1,Dementia care facilities [hospitals],EN,dementia; Dementia care,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x1_3,"Dementia-specific hospital beds (per 10,000 population)",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x1_5,"Total dementia hospital admissions (per 100,000)",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x1_7,Estimated percentage of hospitals following national dementia standards,EN,dementia; Dementia standards,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x2_3,"Dementia-specific residential long-term care beds (per 10,000 population)",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x2_4,Estimated number of people with dementia living in residential long-term care,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x2_5,Estimated percentage of residential long-term care facilities following national dementia standards,EN,dementia; Dementia standards,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x3_3,"Dementia-specific hospice care beds (per 10,000 population)",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x4_3,"Dementia-specific adult day centre places (per 10,000 population)",EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x5_2,Estimated number of people with dementia receiving services at outpatient health centre,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+GDO_q9x6_2,Estimated number of people with dementia receiving services at outpatient social centre,EN,dementia,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HRH_04,Number of pharmacists,EN,Pharmacists,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HRH_24,Number of nursing and midwifery personnel,EN,Nursing and midwifery personnel,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HRH_33,Nursing and midwifery personnel density (per 1000 population),EN,Nursing and midwifery personnel,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0001,"Medical doctors (per 10,000)",EN,Medical doctors,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0002,Medical doctors (number),EN,Medical doctors,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0005,Medical doctors not further defined (number),EN,Medical doctors,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0006,"Nursing and midwifery personnel (per 10,000)",EN,Nursing and midwifery personnel,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0007,Nursing and midwifery personnel  (number),EN,Nursing and midwifery personnel,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0014,"Pharmacists  (per 10,000)",EN,Pharmacists,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0015,Pharmacists  (number),EN,Pharmacists,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+HWF_0025,Medical doctors (%),EN,Medical doctors,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+MH_6,"Psychiatrists working in mental health sector (per 100,000)",EN,Psychiatrists working in mental health sector,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_BMI_25A,"Overweight among adults, BMI ≥ 25 kg/m2 (age-standardized estimate) (%)",EN,Overweight among adults,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_BMI_25C,"Overweight among adults, BMI ≥ 25 kg/m2 (crude estimate) (%)",EN,Overweight among adults,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_BMI_30A,"Obesity among adults, BMI ≥ 30 kg/m2 (age-standardized estimate) (%)",EN,Obesity among adults,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_BMI_30C,"Obesity among adults, BMI ≥ 30 kg/m2 (crude estimate) (%)",EN,Obesity among adults,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_GUIDELINES,Existence of national guidelines for physical activity,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_GUIDELINES_5to19,Existence of national guidelines for physical activity for children and adolescents aged 5-19,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_GUIDELINES_ADULTS,Existence of national guidelines for physical activity for adults,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_GUIDELINES_OLDADULTS,Existence of national guidelines for physical activity for older adults,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_GUIDELINES_UNDER5,Existence of national guidelines for physical activity for children under 5,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_POL_AGEING,Existence of policy promoting physical activity: active ageing,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_POL_CHILDCARE,Existence of policy promoting physical activity: childcare settings,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_POL_COMM_BASED,Existence of policy promoting physical activity: community-based and sports initiatives,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_POL_PUBLIC,Existence of policy promoting physical activity: public open spaces,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_POL_WALKBIKE,Existence of policy promoting physical activity: walking and cycling,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_POL_WORK,Existence of policy promoting physical activity: workplace initiatives,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_PA_TAX,Existence of tax incentives to promote physical activity,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_dietpaaware,Implementation of diet and/or physical activity public awareness program,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_CCS_paaware,Implementation of physical activity public awareness program,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_HYP_PREVALENCE_A,"Hypertension among adults aged 30-79 years, prevalence, age-standardized",EN,Hypertension among adults,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_HYP_PREVALENCE_C,"Hypertension among adults aged 30-79 years, prevalence, crude",EN,Hypertension among adults,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_PAA,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+NCD_PAC,Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%),EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_ACTIVEENVIRONMENTS,Physical activity active environments,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_ACTIVEPEOPLE,Physical activity policies focused on active people,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_ACTIVESOCIETIES,Physical activity policies for activie societies,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_ACTIVESYSTEMS,Physical activity policies focused on active systems,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_ADO_DAY,"Physical activity among adolescents, mean active days per week",EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_ADO_PREV_0DAY,"Physical activity among adolescents, no active days in the past week, prevalence (%)",EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_ADO_PREV_7DAY,"Physical activity among adolescents, active on all 7 days of the past week, prevalence (%)",EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+PHYSICALACTIVITY_REGION,Physical activity regional summary,EN,Physical activity,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+SA_0000001688,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2), three-year average",EN,"Alcohol, total per capita",Global Dementia Observatory,2026-10-28T14:37:45+00:00
+SA_0000001822,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN,"Alcohol, total per capita",Global Dementia Observatory,2026-10-28T14:37:45+00:00
+SA_0000001822_ARCHIVED,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN,"Alcohol, total per capita",Global Dementia Observatory,2026-10-28T14:37:45+00:00
+WHS6_127,Number of nursing and midwifery personnel,EN,Nursing and midwifery personnel,Global Dementia Observatory,2026-10-28T14:37:45+00:00
+WHS6_148,Nursing and midwifery personnel density (per 10 000 population),EN,Nursing and midwifery personnel,Global Dementia Observatory,2026-10-28T14:37:45+00:00

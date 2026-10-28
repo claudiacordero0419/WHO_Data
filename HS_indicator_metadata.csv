@@ -1,0 +1,13 @@
+﻿IndicatorCode,IndicatorName,Language,MatchedTerms,Topic,RetrievedAtUTC
+CARE_SEEK,Care-seeking by type of patient and source of care (%) (see CARE_SOURCE),EN,care-seeking by type of patient and source of care,Health Systems,2026-10-28T14:40:16+00:00
+CARE_SOURCE,Care-seeking by type of patient and source of care (%),EN,care-seeking by type of patient and source of care,Health Systems,2026-10-28T14:40:16+00:00
+DEVICES00,Total density per 100 000 population: Hospitals,EN,density per 100 000 population,Health Systems,2026-10-28T14:40:16+00:00
+DEVICES01,Total density per 100 000 population: Health posts,EN,density per 100 000 population,Health Systems,2026-10-28T14:40:16+00:00
+DEVICES02,Total density per 100 000 population: Health centres,EN,density per 100 000 population,Health Systems,2026-10-28T14:40:16+00:00
+DEVICES03,Total density per 100 000 population: District/rural hospitals,EN,density per 100 000 population,Health Systems,2026-10-28T14:40:16+00:00
+DEVICES04,Total density per 100 000 population: Provincial hospitals,EN,density per 100 000 population,Health Systems,2026-10-28T14:40:16+00:00
+DEVICES05,Total density per 100 000 population: Specialized hospitals,EN,density per 100 000 population,Health Systems,2026-10-28T14:40:16+00:00
+MDG_0000000010,Median availability of selected generic medicines (%) - Public,EN,median availability of selected generic medicines,Health Systems,2026-10-28T14:40:16+00:00
+MDG_0000000011,Median consumer price ratio of selected generic medicines - Public,EN,median consumer price ratio of selected generic medicines,Health Systems,2026-10-28T14:40:16+00:00
+WHS6_101,Median availability of selected generic medicines (%) - Private,EN,median availability of selected generic medicines,Health Systems,2026-10-28T14:40:16+00:00
+WHS6_116,Median consumer price ratio of selected generic medicines - Private,EN,median consumer price ratio of selected generic medicines,Health Systems,2026-10-28T14:40:16+00:00
