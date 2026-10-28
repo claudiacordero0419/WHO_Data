@@ -1,0 +1,101 @@
+IndicatorCode,IndicatorName,Language
+MH_12,Age-standardized suicide rates (per 100 000 population),EN
+NCD_BMI_18A,"Underweight among adults, BMI < 18.5 kg/m2 (age-standardized estimate) (%)",EN
+NCD_BMI_MINUS2A,"Prevalence of thinness among children and adolescents, BMI < -2 standard deviations below the median (age-standardized estimate) (%)",EN
+NCD_BMI_MINUS2C,"Thinness among children and adolescents, BMI-for-age < -2 standard deviations below the median (%)",EN
+NCD_BMI_PLUS1A,"Prevalence of overweight among children and adolescents, BMI > +1 standard deviations above the median (age-standardized estimate) (%)",EN
+NCD_BMI_PLUS2C,"Obesity among children and adolescents, BMI-for-age > +2 standard deviations above the median (crude estimate) (%)",EN
+NCD_BMI_18C,"Underweight among adults, BMI < 18.5 kg/m2 (crude estimate) (%)",EN
+NCD_BMI_25C,"Overweight among adults, BMI ≥ 25 kg/m2 (crude estimate) (%)",EN
+NCD_BMI_PLUS1C,"Overweight among children and adolescents, BMI-for-age > +1 standard deviations above the median (crude estimate) (%)",EN
+M_Est_tob_daily,Estimate of daily tobacco use prevalence (%),EN
+M_Group,Monitoring tobacco use and prevention policies,EN
+M_smkless_def_text_adult,Adult smokeless tobacco use indicator definition,EN
+M_smkless_def_text_youth,Youth smokeless tobacco use indicator definition,EN
+NCD_CCS_cervicalcancerpgmtype,Type of national cervical cancer screening program,EN
+NCD_CCS_DiabetesReg,Existence of a diabetes registry,EN
+NCD_CCS_DiabetesTest,"General availability of diabetes testing (by blood glucose measurement, OGTT, or HbA1c) at the primary health care level",EN
+NCD_CCS_cervicalcancerpgmcvg,Coverage of national cervical cancer screening program (%),EN
+NCD_CCS_DiabPlan,Existence of operational policy/strategy/action plan for diabetes,EN
+NCD_CCS_diabtest,"General availability of diabetes testing (by blood glucose measurement, OGTT) at the primary health care level",EN
+NCD_CCS_integNCDplan,"Existence of an operational, multisectoral national NCD policy, strategy or action plan that integrates several NCDs and their risk factors",EN
+NCD_CCS_palliative_prim,General availability of palliative care in primary health care in the public health system,EN
+NCD_CCS_MultisecComm,"Existence of a national multisectoral commission, agency or mechanism for NCDs",EN
+NCD_CCS_NCDUnit_Operational,"Existence of an Operational Unit, Branch, or Dept. in Ministry of Health with responsibility for NCDs",EN
+NCD_BMI_25A,"Overweight among adults, BMI ≥ 25 kg/m2 (age-standardized estimate) (%)",EN
+NCD_BMI_PLUS2A,"Prevalence of obesity among children and adolescents, BMI > +2 standard deviations above the median (age-standardized estimate) (%)",EN
+NCD_CCS_cervicalcancermethod,Most widely used screening method in national cervical cancer screening program,EN
+M_Est_tob_curr,Estimate of current tobacco use prevalence (%),EN
+M_smkless_prev_adult,Adult smokeless tobacco use indicator rate,EN
+M_smkless_prev_youth,Youth smokeless tobacco use indicator rate,EN
+NCD_CCS_CholMsmt,General availability of total cholesterol measurement at the primary health care level,EN
+NCD_CCS_TobPlan,Existence of operational policy/strategy/action plan to decrease tobacco use,EN
+NCD_UNDER70,Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths,EN
+NCD_CCS_DietPlan,Existence of operational policy/strategy/action plan to reduce unhealthy diet related to NCDs,EN
+NCD_CCS_HbA1c,General availability of diabetes testing (by HbA1c) at the primary health care level,EN
+NCD_CCS_NCDGuide,Existence of evidence-based national guidelines/protocols/standards for the management of major NCDs through a primary care approach,EN
+NCD_CCS_NCDIndicators,Existence of a set of national NCD indicators and has set time-bound national targets for these indicators,EN
+NCD_CCS_palliative_home,General availability of palliative care in community or home-based care in the public health system,EN
+NCD_CCS_SurvMonRep9NCD,Existence of an NCD surveillance and monitoring system in place to enable reporting against the nine global NCD targets,EN
+NCD_DTH_TOT,Total NCD Deaths,EN
+NCDMORT3070,"Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease",EN
+O_Group,Offering help to quit tobacco use,EN
+SA_0000001421,"Age-standardized DALYs, diabetes mellitus, per 100,000",EN
+SA_0000001440,"Age-standardized death rates, diabetes mellitus, per 100,000",EN
+WHS2_131,Age-standardized NCD mortality rate  (per 100 000 population),EN
+TOBACCO_0000000344,Prevalence of current tobacco use among adolescents aged 13-15 years,EN
+TOBACCO_0000000393,Health warnings on other smoked tobacco packaging describe the harmful effects of tobacco use on health,EN
+SDGSUICIDE,Crude suicide rates (per 100 000 population),EN
+W14_harm_effects_C,Do health warnings on smokeless tobacco packaging describe the harmful effects of tobacco use on health?,EN
+W14_harm_effects_A,Do health warnings on cigarette packaging describe the harmful effects of tobacco use on health?,EN
+W14_harm_effects_B,Do health warnings on other smoked tobacco packaging describe the harmful effects of tobacco use on health?,EN
+WHOSIS_000013,Prevalence of current tobacco use among adolescents (13-15 years) (%),EN
+GDO_q17x2x1_4,Identification of other research plans in which dementia is integrated (NCD),EN
+GDO_Q2x2x1_NCD,Identification of other plans in which dementia is integrated (NCD),EN
+NCD_DIABETES_TREATMENT_CRUDE,"Diabetes treatment coverage, crude",EN
+NCD_HYP_DIAGNOSIS_A,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, age-standardized (%)",EN
+TOBACCO_MPOWER_P1_SMOKEFREEPLACES,Tobacco MPOWER Protect people: P1 smoke-free places (national legislation),EN
+Yth_daily_smokeless,Prevalence of daily smokeless tobacco use among adolescents (%),EN
+TOBACCO_MPOWER_P2_SMOKEFREEPLACEDETAILS,"Tobacco MPOWER Protect people: P2 smoke-free places, additional characteristics",EN
+NCD_CHOL_MEANHDL_A,"Mean HDL cholesterol, age-standardized",EN
+NCD_HYP_CONTROL_A,"Hypertension effective treatment coverage (controlled hypertension )among adults aged 30-79, age-standardized (%)",EN
+NCD_HYP_PREVALENCE_C,"Hypertension among adults aged 30-79 years, prevalence, crude",EN
+NCD_CCS_BP_SVY,"Has conducted a recent, national adult risk factor survey covering raised blood pressure/hypertension",EN
+NCD_SENSORYFUNCTION_VISION_EREC,Vision and eyecare: Effective refractive error coverage (eREC) (%),EN
+NCD_HYP_TREATMENT_C,"Hypertension treatment coverage among adults aged 30-79 with hypertension, crude (%)",EN
+M_Est_tob_curr_users,"Number of current of tobacco users, estimate",EN
+TOBACCO_MPOWER_OVERVIEW,"Tobacco MPOWER overview: Monitor, Protect people, Offer help, Warn of dangers, Enforce bans, Raise taxes",EN
+NCD_CCS_BP_TARGET,Existence of a national target on blood pressure / hypertension,EN
+NCD_DIABETES_PREVALENCE_AGESTD,"Prevalence of diabetes, age-standardized",EN
+M_Est_tob_curr_std,Estimate of current tobacco use prevalence (%) (age-standardized),EN
+NCD_CXCA_SCREENED_WITHIN_TIMEPERIOD,Prevalence of cervical cancer screening  among women aged 30-49 years (%),EN
+NCD_CCS_DIAB_GUIDE,Existence of evidence-based national guidelines/protocols/standards for the management of diabetes,EN
+PRISON_D4_DIABETES_DIAG_TOT,In-prison diabetes mellitus diagnosis (number of diagnoses),EN
+NCD_CHOL_MEANHDL_C,"Mean HDL cholesterol, crude",EN
+TOBACCO_MPOWER_NTCP,Tobacco MPOWER: National tobacco control programmes (NTCP),EN
+Yth_curr_smokeless,Prevalence of current smokeless tobacco use among adolescents (%),EN
+TOBACCO_MPOWER_M3_TOBACCOUSESMOKINGSCHOOL,"Tobacco Monitor: school-based national surveys, tobacco use, tobacco smoking, and cigarette smoking",EN
+NCD_CHOL_MEANNONHDL_C,"Mean Non-HDL cholesterol, crude",EN
+NCD_CHOL_MEANTOTALCHOL_A,"Mean total cholesterol,  age-standardized",EN
+NCDCCS_COUNTRYRESPONSE,NCD country capacity survey response,EN
+TOBACCO_MPOWER_M1_PREVALENCE,"Tobacco Monitor: population-based national surveys, tobacco use and smoking, prevalence",EN
+Yth_curr_tob_use,Prevalence of current tobacco use among adolescents (%),EN
+NCD_CCS_DIAB_TARGET,Existence of a national target on diabetes,EN
+NCDMORTPERCENT,Percentage of total deaths due to NCDs overall and percentage of total deaths due to 7 main categories (5 different NCD categories plus 2 non-NCD categories which together total all deaths),EN
+NCD_HYP_PREVALENCE_A,"Hypertension among adults aged 30-79 years, prevalence, age-standardized",EN
+NCD_CHOL_MEANTOTALCHOL_C,"Mean total cholesterol,  crude",EN
+TOBACCO_MPOWER_M1_TOBACCOUSESMOKING,"Tobacco Monitor: population-based national surveys, tobacco use and smoking",EN
+Yth_daily_tob_use,Prevalence of daily tobacco use among adolescents (%),EN
+NCD_CCS_DIAB_SVY,"Has conducted a recent, national adult risk factor survey covering raised blood glucose/diabetes",EN
+NCD_CHOL_MEANNONHDL_A,"Mean Non-HDL cholesterol, age-standardized",EN
+NCD_DIABETES_PREVALENCE_CRUDE,"Prevalence of diabetes, crude",EN
+M_Est_tob_daily_std,Estimate of daily tobacco use prevalence (%) (age-standardized),EN
+NCD_CCS_MORT_TARGET,Existence of a national target on NCD mortality,EN
+NCD_CCS_TOB_SVY,"Has conducted a recent, national adult risk factor survey covering tobacco use",EN
+NCD_CCS_CHOL_SVY,"Has conducted a recent, national adult risk factor survey covering raised total cholesterol",EN
+NCD_HYP_CONTROL_C,"Hypertension: effective treatment coverage (controlled hypertension) among adults aged 30-79 with hypertension, crude (%)",EN
+NCD_HYP_TREATMENT_A,"Hypertension treatment coverage among adults aged 30-79 with hypertension, age-standardized (%)",EN
+ORALHEALTH_NCD_STAFF,Presence of dedicated staff for oral health working on NCDs at the MoH,EN
+NCD_HYP_DIAGNOSIS_C,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, crude (%)",EN
+TOBACCO_MPOWER_M3_PREVALENCE,"Tobacco Monitor: school-based national surveys, tobacco use, tobacco smoking, and cigarette smoking, prevalence",EN
+NCD_DIABETES_TREATMENT_AGESTD,"Diabetes treatment coverage, age-standardized",EN

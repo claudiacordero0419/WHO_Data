@@ -1,0 +1,6 @@
+IndicatorCode,IndicatorName,Language
+PATIENTSAFETY_STRATEGICOBJECTIVEAGGREGATE,Patient safety strategic objective (%),EN
+PATIENTSAFETY_COREINDICATORRESPONSE,Patient safety core indicator survey response,EN
+GOE_Q169,"To address patient safety and quality of care based on data quality, data transmission standards, or clinical competency criteria",EN
+PATIENTSAFETY_STRATEGYSCORE,Patient safety strategy score,EN
+PATIENTSAFETY_COREINDICATORAGGREGATE,Patient safety core indicator aggregated (%),EN

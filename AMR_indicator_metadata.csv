@@ -1,0 +1,13 @@
+IndicatorCode,IndicatorName,Language
+AMRGLASS_QA03,EQA provided to local laboratories participating in GLASS,EN
+AMRGLASS_SURVL02,Number of National surveillance sites in each country providing data to GLASS: outpatient facility category,EN
+AMR_GI_001,Status of countries enrolled in GLASS,EN
+AMRGLASS_COORD01,Functioning national AMR surveillance plan,EN
+AMRGLASS_SURVL03,Number of local clinical laboratories in each country performing AST to support national AMR surveillance sites,EN
+AMRGLASS_COORD02,Establishment of National Coordination Centre (NCC),EN
+AMRGLASS_COORD04,Establishment of national reference laboratory (NRL),EN
+AMRGLASS_QA01,EQA provided to the national reference laboratory (NRL),EN
+AMRGLASS_QA04,GLASS pathogens testing covered by EQA,EN
+AMRGLASS_SURVL01,Number of national surveillance sites in each country providing data to GLASS: hospital category,EN
+AMRGLASS_SURVL05,"Archived, see GLASS dashboard",EN
+AMRGLASS_SURVL04,"Archived, see GLASS dashboard",EN

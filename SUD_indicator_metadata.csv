@@ -1,0 +1,66 @@
+IndicatorCode,IndicatorName,Language
+RSUD_43,Open access services for substance use disorders,EN
+RSUD_45,"Beds for the treatment of substance use disorders, per 100 000",EN
+RSUD_42,Specialized treatment services for substance use disorders and TB,EN
+RSUD_420,Guidelines on pharmacological treatment for substance use disorders,EN
+RSUD_76,"Prevention activities for substance use disorders, main focus",EN
+RSUD_78,Screening and brief interventions for substance use and substance use disorders,EN
+RSUD_72,"Essential list of medicines, pharmacotherapy for substance use disorders",EN
+RSUD_87,Self-help groups for substance use disorders,EN
+RSUD_9,Service delivery data collection system for substance use disorders,EN
+RSUD_77,Programmes for the prevention of substance use disorders for special populations,EN
+RSUD_8,Epidemiological data collection system for substance use disorders,EN
+RSUD_40,"Treatment setting for substance use disorders, most common",EN
+RSUD_80,Health professionals mostly involved in treatment of substance use disorders,EN
+RSUD_88,Groups and agencies for the prevention of substance use disorders,EN
+RSUD_130,Government unit/official responsible for treatment of substance use disorders,EN
+RSUD_140,Ministry/office that takes primary responsibility for treatment of substance use disorders,EN
+RSUD_150,Involvement of representatives of affected or targeted populations in the development and formulation of policies and strategies for treatment of substance use disorders,EN
+RSUD_16,Legislative provision for treatment and rehabilitation of substance use disorders,EN
+RSUD_26,Governement benefits for persons with substance use disorders,EN
+RSUD_160,Involvement of representatives of affected or targeted populations in the development and implementation of national programmes for treatment of substance use disorders,EN
+RSUD_14,Policy documents on the pharmacological treatment of substance use disorders,EN
+RSUD_15,Guidelines on the pharmacological treatment of substance use disorders,EN
+RSUD_290,Hypothecated taxes to be spent on prevention and treatment for substance use disorders,EN
+RSUD_39,Treatment system for substance use disorders,EN
+RSUD_260,Five-year change in government resources for treatment of substance use disorders,EN
+RSUD_11,Data on substance use disorders disseminated in national annual reports,EN
+RSUD_190,Five years change in international cooperation for treatment of substance use disorders,EN
+RSUD_20,Confidentiality of health records on substance use disorders  protected by law,EN
+RSUD_200,Confidentiality of people in treatment for substance use disorders,EN
+RSUD_360,Specialized treatment facilities for substance use disorders,EN
+SUD_TREATMENTSERVICES_COVERAGE,Contact coverage of treatment services for substance use disorders (%),EN
+SCSUD_MEDREG,"Substance use disorders service coverage, medicine registered in the country",EN
+SCSUD_DATASERVUTIL,"Substance use disorders service coverage, data on service utilization",EN
+SCSUD_FINANCINGEXP,"Substance use disorders service coverage, information on governmental expenditures",EN
+SUD_SERVICECAPACITYINDEX,Service Capacity Index for Substance Use Disorders (SCI-SUD),EN
+SCSUD_HWFDEV,"Substance use disorders service coverage, health workforce access to professional development and education",EN
+SCSUD_HEALTHINFOPROGRESS,"Substance use disorders service coverage, health information system progress",EN
+SCSUD_HWFPROGRESS,"Substance use disorders service coverage, health workforce progress",EN
+SCSUD_HWFAVAILABILITY,"Substance use disorders service coverage, availability and quantity of specialized human workforce",EN
+SCSUD_MEDPUBLIC,"Substance use disorders service coverage, medicine provided for free in public health care",EN
+SCSUD_REHABPROGRESS,"Substance use disorders service coverage, rehabilitation programmes progress",EN
+SCSUD_REHAB,"Substance use disorders service coverage, rehabilitation programmes",EN
+SCSUD_GOVPROGRESS,"Substance use disorders service coverage, governance progress",EN
+SCSUD_NSS,"Substance use disorders service coverage, non-structured services",EN
+SCSUD_SBIPROGRESS,"Substance use disorders service coverage, screening and brief interventions progress",EN
+SCSUD_PHARM,"Substance use disorders service coverage, pharmacological treatment services",EN
+SCSUD_MEDDF,"Substance use disorders service coverage, medicine included in drug formulary",EN
+SCSUD_MEDACCESSPROGRESS,"Substance use disorders service coverage, access to medicine progress",EN
+SCSUD_PHARMPROGRESS,"Substance use disorders service coverage, pharmacological treatment services progress",EN
+SCSUD_DATAPREV,"Substance use disorders service coverage, data on prevalence of substance use/ substance use disorders",EN
+SCSUD_STS,"Substance use disorders service coverage, specialized treatment services",EN
+SCSUD_NSSPROGRESS,"Substance use disorders service coverage, non-structured services progress",EN
+SCSUD_FINANCINGPROGRESS,"Substance use disorders service coverage, financing progress",EN
+SCSUD_GOVGUIDELINES,"Substance use disorders service coverage, national guidelines",EN
+SCSUD_PSYCH,"Substance use disorders service coverage, psychosocial treatment services",EN
+SCSUD_DATASERVPROV,"Substance use disorders service coverage, data on service provision",EN
+SCSUD_PSYCHPROGRESS,"Substance use disorders service coverage, psychosocial treatment services progress",EN
+SCSUD_FINANCINGSUPPORT,"Substance use disorders service coverage, information on governmental support available",EN
+SCSUD_MEDNTG,"Substance use disorders service coverage, medicine included into official manual/ national treatment guidelines",EN
+SCSUD_MEDNUM,"Substance use disorders service coverage, medicine quantitative data on the number of prescriptions/sales is available",EN
+SCSUD_STSPROGRESS,"Substance use disorders service coverage, specialized treatment services progress",EN
+SCSUD_MEDBIS,"Substance use disorders service coverage, medicine included in basic insurance package",EN
+SCSUD_GOVPAL,"Substance use disorders service coverage, availability of policy, action plan and legislation",EN
+SCSUD_HWFSUPPORT,"Substance use disorders service coverage, system of ongoing support for health workforce",EN
+SCSUD_SBI,"Substance use disorders service coverage, screening and brief interventions",EN

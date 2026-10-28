@@ -1,0 +1,203 @@
+IndicatorCode,IndicatorName,Language
+GDO_q10x1x1,Availability of generic anti-dementia medication,EN
+GDO_q10x1x2,Availability of at least one anti-dementia medication approved for on-label use reimbursement,EN
+GDO_q12x1,Existence of dementia carer support services,EN
+GDO_q12x1x1,Implementation level [national/subnational] of dementia carer support services,EN
+GDO_q12x1x2,Existence of dedicated resources for dementia carer support services,EN
+GDO_q10x1,National regulator approval of anti-dementia medication,EN
+GDO_q10x2_1AVAIL,Availability of atleast one adult hygiene products for people with dementia,EN
+GDO_q10x2_TECH,Availability of  atleast one assistive technology for people with dementia,EN
+GDO_q11x1,Existence of dementia national nongovernmental organization,EN
+GDO_q11x2x2_1,Dementia nongovernmental organization office branches (Sub-national),EN
+GDO_q11x2x2_2,Dementia nongovernmental organization office branches (Local),EN
+GDO_q11x2x2_3,Dementia nongovernmental organization office branches (National only),EN
+GDO_q11x2x6,Dementia nongovernmental organization's involvement in policy development,EN
+GDO_q12x1x3,Existence of implementation plan for dementia carer support services,EN
+GDO_q12x2_5,Existence of financial benefits/social protection for dementia carers,EN
+GDO_q12x2x1x1_1NGO,Majority provider of dementia carer training and education (NGO),EN
+GDO_q11x2x3,Dementia nongovernmental organization staff primarily salaried/volunteer,EN
+GDO_q11x2x5,Provision of governmental funding to dementia nongovernmental organization for activities/services,EN
+GDO_q10x2_HOSUE,Availability of atleast one housing adjustment for people with dementia,EN
+GDO_q11x2x1,Dementia nongovernmental organization equipped with office,EN
+GDO_q12x2x1x1_1,"Accessibility of dementia carer training and education [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2_2,Existence of psycho-social supports for dementia carers,EN
+GDO_q12x2_3,Existence of respite care for dementia carers,EN
+GDO_q12x2_4,Existence of information on legal rights for dementia carers,EN
+GDO_q12x2x1x1_1PUB,Majority provider of dementia carer training and education (Public sector),EN
+GDO_q12x2x1x1_2NGO,Majority provider of psycho-social supports for dementia carers (NGO),EN
+GDO_q12x2x1x1_1PRV,Majority provider of dementia carer training and education (Private sector),EN
+GDO_q12x2x1x1_2,"Accessibility of psycho-social supports for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2x1x1_2PRV,Majority provider of psycho-social supports for dementia carers (Private sector),EN
+GDO_q12x2x1x1_3PRV,Majority provider of respite care for dementia carers (Private sector),EN
+GDO_q12x2x1x1_4,"Accessibility of information on legal rights for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2x1x1_4PUB,Majority provider of information  on legal rights for dementia carers (Public sector),EN
+GDO_q12x2x1x1_2PUB,Majority provider of psycho-social supports for dementia carers (Public sector),EN
+GDO_q12x2x1x1_3,"Accessibility of respite care for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2x1x1_3NGO,Majority provider of respite care for dementia carers (NGO),EN
+GDO_q12x2x1x1_5PUB,Majority provider of information  on financial benefits/social protection for dementia carers (Public sector),EN
+GDO_q12x2x2x3,Estimated number of dementia carers receiving psycho-social supports,EN
+GDO_q12x2x3x3,Estimated number of dementia carers receiving respite care,EN
+GDO_q12x2x4x3,Estimated number of dementia carers receiving information on legal rights,EN
+GDO_q13x1,Existence of at least one functioning dementia awareness campaign,EN
+GDO_q13x1x1,Implementation level [national/subnational] of dementia awareness campaign,EN
+GDO_q12x2x1x1_4PRV,Majority provider of information on legal rights for dementia carers (Private sector),EN
+GDO_q12x2x1x3,Estimated number of dementia carers receiving training and education,EN
+GDO_q15x1,Inclusion of dementia training and education for non-health workers,EN
+GDO_q15x2_1,Existence of dementia training for volunteers,EN
+GDO_q15x2_4,Existence of dementia training for legal professionals,EN
+GDO_q15x2_6,Existence of dementia training for school children,EN
+GDO_q16x1x1_other,Data sources used to routinely monitor people with dementia (Other),EN
+GDO_q16x1x2_1,Electronic availability of data sources used to routinely monitor people with dementia,EN
+GDO_q16x2_1,Availability of routine hospital admissions records for people with dementia for monitoring purposes,EN
+GDO_q16x2_2,Availability of routine outpatient visit records for people with dementia for monitoring purposes,EN
+GDO_q16x2_4,Availability of routine pharmaceutical records for people with dementia for monitoring purposes,EN
+GDO_q12x2x1x1_5,"Accessibility of financial benefits/social protection for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2x1x1_5PRV,Majority provider of information on financial benefits/social protection for dementia carers (Private sector),EN
+GDO_q14x1,Availability of dementia-friendly initiatives that improve accessibility,EN
+GDO_q14x2_2,Existence of dementia-friendly initiative to improve accessibility of public transportation,EN
+GDO_q14x2_3,Existence of dementia-friendly initiative for assistance with home modification,EN
+GDO_q14x2_4,Existence of dementia-friendly initiative with assistive technology for loss of capacity,EN
+GDO_q14x2_5,Existence of dementia-friendly initiative supporting community places for older people,EN
+GDO_q15x2_5,Existence of dementia training for community workers,EN
+GDO_q16x1,Routine monitoring of people with dementia,EN
+GDO_q16x1x1_1,Data sources used to routinely monitor people with dementia (Clinical records),EN
+GDO_q16x1x1_3,Data sources used to routinely monitor people with dementia (Administrative data),EN
+GDO_q16x1x1_4,Data sources used to routinely monitor people with dementia (Facility survey or records),EN
+GDO_q17x2,Dementia integrated into other national research plan/programme,EN
+GDO_q17x2x1_4,Identification of other research plans in which dementia is integrated (NCD),EN
+GDO_q18x2x3_1,"Total expenditure on dementia basic research (local currency, self-report)",EN
+GDO_q18x2x3_2,"Total expenditure on dementia clinical/translational research (local currency, self-report)",EN
+GDO_q1x1x1,"Inclusion of dementia in a branch of government [health, ageing, social services, mental health, noncommunicable disease]",EN
+GDO_q2x1,Existence of dementia national plan,EN
+GDO_q2x1x2,Availability of funding for dementia national plan,EN
+GDO_q17x2x1_3,Identification of other research plans in which dementia is integrated (Neuro or neurodegenerative disease),EN
+GDO_q18x2x3_3,"Total expenditure on dementia implementation research (local currency, self-report)",EN
+GDO_q19x2,Number of people with dementia involved in research routinely monitored,EN
+GDO_q2x2x1_other,Identification of other plans in which dementia is integrated (Other),EN
+GDO_q2x4_4,Inclusion of multisectoral collaboration as a guiding principles of the dementia plan,EN
+GDO_q2x4_5,Inclusion of universal health coverage as a guiding principle of the dementia plan,EN
+GDO_q2x5_1,Inclusion of dementia-friendly communities as a specific action of the dementia plan,EN
+GDO_q2x5_3,"Inclusion of dementia diagnosis, care and support as a specific action of the dementia plan",EN
+GDO_q2x5_6,Inclusion of improved information system as a specific action of the dementia plan,EN
+GDO_q3x1,Existence of dementia legislation,EN
+GDO_q19x3x1_1,Number of investigational pharmaceutical trials for dementia,EN
+GDO_q20,Total number of published dementia research output,EN
+GDO_q2x1x3,Targets for monitoring implementation of dementia national plan,EN
+GDO_Q2x2x1_AGE,Identification of other plans in which dementia is integrated (Ageing),EN
+GDO_Q2x2x1_MENTAL,Identification of other plans in which dementia is integrated (Mental health),EN
+GDO_Q2x2x1_NCD,Identification of other plans in which dementia is integrated (NCD),EN
+GDO_q2x3,Existence of dementia sub-national plan(s),EN
+GDO_q2x3x1_1,Percentage of sub-national regions covered by dementia plan,EN
+GDO_q3x4_1,Existence of legislation for advanced care directives for people with dementia,EN
+GDO_q4x1x2,Existence of approved government dementia standards/ guidelines/ protocols,EN
+GDO_q4x2_3,Existence of standards/ guidelines/ protocols for management of dementia,EN
+GDO_q4x3x4_3,Existence of standards/ guidelines/ protocols of care in nursing & residential care facilities for people with dementia,EN
+GDO_q5x1x1_1,Identification of different sectors in dementia care coordination  (Health),EN
+GDO_q5x1x1_4,Identification of different sectors in dementia care coordination (Employment),EN
+GDO_q2x5_7,Inclusion of research and innovation as a specific action of the dementia plan,EN
+GDO_q3x3a_1,Existence of legislation for supported decision making for people with dementia,EN
+GDO_q5x1x1_8,Identification of different sectors in dementia care coordination (Private sector),EN
+GDO_q5x1x1_other,Identification of different sectors in dementia care coordination (Other),EN
+GDO_q6x2_2,Inclusion of basic dementia competencies in training of specialists,EN
+GDO_q3x3a_3,Existence of legislation to promote community-based services for people with dementia,EN
+GDO_q4x1x1_SQ002,Implementation level of dementia standards/ guidelines/ protocols (Sub-national),EN
+GDO_q4x2_2,Existence of standards/ guidelines/ protocols for diagnosis of dementia,EN
+GDO_q4x2_4,Existence of standards/ guidelines/ protocols for other post-diagnostic supports of people with dementia,EN
+GDO_q8x1,Existence of community-based health or social care services for dementia,EN
+GDO_q8x2_4,Availability of activities of daily living support services in community for dementia,EN
+GDO_q8x3_1,"Accessibility of diagnostic services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q8x3_6,"Accessibility of social and financial protection for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q8x4_1,"Majority provider of diagnostic services in community for dementia [public, private]",EN
+GDO_q14x2_6,Existence of dementia-friendly initiative supporting social opportunities,EN
+GDO_q15x2_2,Existence of dementia training for police and fire services,EN
+GDO_q15x2_3,Existence of dementia training for first responders,EN
+GDO_q16x1x1_2,Data sources used to routinely monitor people with dementia (Household surveys),EN
+GDO_q4x3x4_1,"Existence of standards/ guidelines/ protocols for advance care directives, power of attorney or guardianship for people with dementia",EN
+GDO_q5x1x1_2,Identification of different sectors in dementia care coordination (Social),EN
+GDO_q5x1x1_3,Identification of different sectors in dementia care coordination (Education),EN
+GDO_q5x1x1_5,Identification of different sectors in dementia care coordination (Justice),EN
+GDO_q9x2_5,Estimated percentage of residential long-term care facilities following national dementia standards,EN
+GDO_q9x4_3,"Dementia-specific adult day centre places (per 10,000 population)",EN
+GDO_q5x1x3,Presence of formal agreement/joint plan for dementia care coordination,EN
+GDO_q5x2,Availability of dementia care coordination standards/ guidelines/ protocols,EN
+GDO_q6x2_1,Inclusion of basic dementia competencies in training of physicians,EN
+GDO_q7x1_AVAIL,Availability of dementia diagnostic rate,EN
+GDO_q16x1x2_2,Data used to routinely monitor people with dementia can be disaggregated,EN
+GDO_q16x2_3,Availability of routine outpatient intervention and treatment records for people with dementia for monitoring purposes,EN
+GDO_q17x1x1,Implementation level [national/subnational] of dementia research plan/programme,EN
+GDO_q17x2x1_1,Identification of other research plans in which dementia is integrated (Mental health),EN
+GDO_q8x2_2,Availability of behaviour and psychological management in community for dementia,EN
+GDO_q8x3_3,"Accessibility of psychosocial and rehabilitation services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q8x3_4,"Accessibility of activities of daily living support services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q8x4_3,"Majority provider of psychosocial and rehabilitation services in community for dementia [public, private]",EN
+GDO_q8x5_2,Estimated number of people receiving behaviour and psychological management services in community for dementia,EN
+GDO_q8x5_5,Estimated number of people receiving palliative and end-of-life care services in community for dementia,EN
+GDO_q9x2_3,"Dementia-specific residential long-term care beds (per 10,000 population)",EN
+GDO_q9x2_4,Estimated number of people with dementia living in residential long-term care,EN
+GDO_q9x5_2,Estimated number of people with dementia receiving services at outpatient health centre,EN
+GDO_q17x2x1_2,Identification of other research plans in which dementia is integrated (Ageing),EN
+GDO_q18x2,Availability of funding for dementia-specific research plan/programme,EN
+GDO_q1x1,Inclusion of dementia in ministry portfolio,EN
+GDO_q3x2,Existence of other laws that apply to the rights of people with dementia,EN
+GDO_q3x4_3,Existence of legislation to end discrimination against carers of people with dementia,EN
+GDO_q4x2_1,Existence of standards/ guidelines/ protocols for prevention and risk reduction of dementia,EN
+GDO_q4x2_5,Existence of standards/ guidelines/ protocols for treatment and support of carers and families of people with dementia,EN
+GDO_q4x3x4_4,Existence of standards/ guidelines/ protocols of care in hospital for people with dementia,EN
+GDO_q5x1x1_7,Identification of different sectors in dementia care coordination (Civil society),EN
+GDO_q5x1x2,Implementation level [national/subnational] of dementia care coordination,EN
+GDO_q6x2_3,Inclusion of basic dementia competencies in training of nurses,EN
+GDO_q6x2_6,Inclusion of basic dementia competencies in training of personal support workers,EN
+GDO_q8x2_1,Availability of diagnostic services in community for dementia,EN
+GDO_q8x2_3,Availability of psychosocial and rehabilitation services in community for dementia,EN
+GDO_q8x3_2,"Accessibility of behaviour and psychological management in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q8x4_5,"Majority provider of palliative and end-of-life care services in community for dementia [public, private]",EN
+GDO_q8x4_6,"Majority provider of social and financial protection for dementia [public, private]",EN
+GDO_q8x5_3,Estimated number of people receiving psychosocial and rehabilitation services in community for dementia,EN
+GDO_q9_1,Dementia care facilities [hospitals],EN
+GDO_q9x1_3,"Dementia-specific hospital beds (per 10,000 population)",EN
+GDO_q9x1_5,"Total dementia hospital admissions (per 100,000)",EN
+GDO_q9x1_7,Estimated percentage of hospitals following national dementia standards,EN
+GDO_q9x3_3,"Dementia-specific hospice care beds (per 10,000 population)",EN
+GDO_q12x2x1x1_3PUB,Majority provider of respite care for dementia carers (Public sector),EN
+GDO_q12x2x1x1_4NGO,Majority provider of information on legal rights for dementia carers (NGO),EN
+GDO_q12x2x1x1_5NGO,Majority provider of information on financial benefits/social protection for dementia carers (NGO),EN
+GDO_q12x2x5x3,Estimated number of dementia carers receiving financial benefits/social protection,EN
+GDO_q13x3x1,Implementation level [national/subnational] of dementia risk reduction campaign,EN
+GDO_q14x2_1,Existence of dementia-friendly initiative to improve accessibility of public spaces,EN
+GDO_q15x2_7,Existence of dementia training for financial service staff,EN
+GDO_q15x2_8,Existence of dementia training for retail and hospitality staff,EN
+GDO_q16x2_5,Availability of routine antipsychotic prescription records for people with dementia for monitoring purposes,EN
+GDO_q16x3,Availability and status of dementia reporting in the past two years,EN
+GDO_q17x1,Existence of a current dementia research plan/programme,EN
+GDO_q17x2x2,Implementation level [national/subnational] of research plan in which dementia is integrated,EN
+GDO_q18x2x1_1,"Total expenditure on dementia research (local currency, self-report)",EN
+GDO_q19x3,Availability of investigational pharmaceutical trials for dementia,EN
+GDO_q1x2,Existence of dementia representative in ministry,EN
+GDO_q2x2,Dementia integrated into other national plan,EN
+GDO_Q2x2x1_DISAB,Identification of other plans in which dementia is integrated (Disability),EN
+GDO_q9x6_2,Estimated number of people with dementia receiving services at outpatient social centre,EN
+GDO_q2x4_1,Inclusion of human rights as a guiding principle of the dementia plan,EN
+GDO_q2x4_2,Inclusion of equity as a guiding principle of the dementia plan,EN
+GDO_q2x4_3,Inclusion of empowerment as a guiding principle of the dementia plan,EN
+GDO_q2x5_2,Inclusion of dementia risk reduction as a specific action of the dementia plan,EN
+GDO_q2x5_4,Inclusion of dementia workforce training as a specific action of the dementia plan,EN
+GDO_q2x5_5,Inclusion of support for dementia carers and families as a specific action of the dementia plan,EN
+GDO_q3x1x1_1,Implementation level [national/subnational] of dementia legislation,EN
+GDO_q3x3a_2,Existence of legislation to file appeals protecting the rights of people with dementia,EN
+GDO_q3x3a_4,Existence of legislation to promote monitoring of human rights conditions of people with dementia in facilities where they reside,EN
+GDO_q3x3b_1,Existence of legislation to end coercieve practices for people with dementia,EN
+GDO_q3x4_2,Existence of legislation to end discrimination against people with dementia,EN
+GDO_q4x1,Existence of dementia standards/ guidelines/ protocols,EN
+GDO_q4x1x1_SQ001,Implementation level of dementia standards/ guidelines/ protocols (National),EN
+GDO_q4x3x4_2,Existence of standards/ guidelines/ protocols for palliative and end-of-life care for people with dementia,EN
+GDO_q5x1,Availability of mechanisms to coordinate dementia care across sectors,EN
+GDO_q5x1x1_6,Identification of different sectors in dementia care coordination (Housing),EN
+GDO_q6x2_4,Inclusion of basic dementia competencies in training of pharmaceutical personnel,EN
+GDO_q6x2_5,Inclusion of basic dementia competencies in training of social workers,EN
+GDO_q8x2_5,Availability of palliative and end-of-life care services in community for dementia,EN
+GDO_q8x2_6,Availability of social and financial protection for dementia,EN
+GDO_q8x3_5,"Accessibility of palliative and end-of-life care services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q8x4_2,"Majority provider of behaviour and psychological management in community for dementia [public, private]",EN
+GDO_q8x4_4,"Majority provider of activities of daily living support services in community for dementia [public, private]",EN
+GDO_q8x5_4,Estimated number of people receiving activities of daily living support services in community for dementia,EN
+GDO_q8x5_6,Estimated number of people with dementia receiving social and financial protection for dementia,EN

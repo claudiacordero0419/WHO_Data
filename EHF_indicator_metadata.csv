@@ -1,0 +1,4 @@
+IndicatorCode,IndicatorName,Language
+HCF_REL_ELECTRICITY,Percentage of health-care facilities with reliable electricity supply (%),EN
+HCF_NO_ELECTRICITY,Percentage of health-care facilities with no access to any electricity supply (%),EN
+HCF_UNREL_ELECTRICITY,Percentage of health-care facilities with unreliable electricity supply (%),EN
